@@ -1,0 +1,19 @@
+{
+    "name": "bookmark-api",
+    "version": "1.0.0",
+    "description": "Bookmark backend KV Api",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "format": "prettier --write '**/*.{js,css,json,md}'"
+    },
+    "author": "mac",
+    "license": "ISC",
+    "devDependencies": {
+        "prettier": "^1.17.0"
+    },
+    "dependencies": {
+        "serverless-cloudflare-workers": "^1.2.0",
+        "uuidv4": "^6.2.7"
+    }
+}

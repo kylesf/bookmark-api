@@ -1,0 +1,10 @@
+name = "bookmark-api"
+type = "webpack"
+account_id = "9853ab16588b4177e70dcccda8ac794d"
+workers_dev = true
+route = ""
+zone_id = ""
+
+kv_namespaces = [ 
+         { binding = "BOOKMARK_STORE", id = "5e3f2368133b4471ac3b256c1e69340e", preview_id = "94113366b81c4beb90f4ab587d87ea99"}
+]

@@ -1,4 +1,4 @@
-import Bookmark from '../functions/bookmarks'
+import Bookmark from '../models/bookmark'
 
 const handler = async request => {
     try {

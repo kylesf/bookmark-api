@@ -1,5 +1,5 @@
 const headers = { 'Content-Type': 'application/json','status': '200' }
-import Bookmark from '../functions/bookmarks'
+import Bookmark from '../models/bookmark'
 
 const handler = async () => {
     try {
